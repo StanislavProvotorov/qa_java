@@ -32,7 +32,7 @@ public class FelineTest {
     }
 
     @Test
-    public void testGetKittens_NotArgumrnt() {
+    public void testGetKittensNotArgumrnt() {
         int expected = 1;
         int actual = feline.getKittens();
 
